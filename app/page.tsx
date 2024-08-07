@@ -35,9 +35,6 @@ export default function Page() {
       <p className="mb-4">
         {`I'm currently interested in opportunities where I can both lead and learn, contributing to projects that are at the forefront of technology and user experience. Let’s connect to explore how we can drive technological advancement together!`}
       </p>
-      <div className="my-8">
-        <BlogPosts />
-      </div>
     </section>
   )
 }
