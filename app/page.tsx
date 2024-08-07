@@ -1,10 +1,8 @@
-import { BlogPosts } from 'app/components/posts'
-
 export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Who am I?
       </h1>
       <p className="mb-4">
         {`Hello! I’m Cameron, a seasoned software engineer and technical leader with a rich background in developing scalable, high-performance software solutions and leading dynamic engineering teams. My career is driven by a passion for leveraging technology to solve complex problems and enhance user experiences, particularly in high-impact industries like education and finance.`}
