@@ -9,7 +9,7 @@ export default function Page() {
           'TypeScript', 'React', 'NodeJS', 'NextJS', 'SST', 'Haskell', 'AWS', 'REST', 'tRPC', 'PostgreSQL', 'MongoDB', 'Elm Lang', 'Python', 'JavaScript', 'HTML', 'CSS3', 'TDD methodologies', 'Agile', 'Code review',
           'Management', 'Leadership', 'Mentorship', 'Problem-solving', 'Collaboration', 'Effective communication', 'Persistent', 'Project management tools'
         ].map(skill => (
-          <span key={skill} className="inline-block transition-transform transform hover:scale-110 mr-2">{skill}</span>
+          <span key={skill} className="inline-block transition-transform transform hover:scale-110 mr-2 cursor-pointer">{skill}</span>
         ))}
       </p>
       

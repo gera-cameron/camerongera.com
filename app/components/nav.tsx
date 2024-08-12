@@ -9,9 +9,6 @@ const navItems = {
   },
   '/resume': {
     name: 'Resume',
-  },
-  '/contact': {
-    name: 'Contact',
   }
 }
 
