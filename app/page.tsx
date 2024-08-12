@@ -5,12 +5,12 @@ export default function Page() {
         Who am I?
       </h1>
       <p className="mb-4">
-        {`Hello! I’m Cameron, a seasoned software engineer and technical leader with a rich background in developing scalable, high-performance software solutions and leading dynamic engineering teams. My career is driven by a passion for leveraging technology to solve complex problems and enhance user experiences, particularly in high-impact industries like education and finance.`}
+        {`Hey there! I'm Cameron, a proud Florida Gator sports fan and dog dad. I've spent years in the SaaS and EdTech platforms, honing my skills as a manager and a functional programmer. I love leading dynamic engineering teams and developing scalable, high-performance software solutions. My passion for technology is fueled by a desire to solve complex problems and enhance user experiences.`}
       </p>
       <h2 className="text-xl font-semibold mt-6">What I Do:</h2>
       <h3 className="text-lg font-semibold mt-4">Technical Leadership</h3>
       <p className="mb-4">
-        {`I thrive in roles where I can lead projects and mentor teams. With expertise in full-stack development and a strong foundation in technologies like TypeScript, React, NodeJS, and PostgreSQL, I guide teams through complex project landscapes from conception to deployment.`}
+        {`I thrive in roles where I can lead projects and mentor teams. With expertise in full-stack development and a strong foundation in technologies like Haskell, TypeScript, React, NodeJS, and PostgreSQL, I guide teams through complex project landscapes from conception to deployment.`}
       </p>
       <h3 className="text-lg font-semibold mt-4">Strategic Innovation</h3>
       <p className="mb-4">
