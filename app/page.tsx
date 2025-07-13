@@ -5,7 +5,7 @@ export default function Page() {
         Who am I?
       </h1>
       <p className="mb-4">
-        {`Hey there! I'm Cameron, a proud Florida Gator sports fan and dog dad. I've spent years in the SaaS and EdTech platforms, honing my skills as a manager and a functional programmer. I love leading dynamic engineering teams and developing scalable, high-performance software solutions. My passion for technology is fueled by a desire to solve complex problems and enhance user experiences.`}
+        {`Hey there! I'm Cameron, a proud Florida Gator sports fan and dog dad. I've spent years building software platforms in various industries, honing my skills as a manager and a software engineer. I love leading dynamic engineering teams and developing scalable, high-performance software solutions. My passion for technology is fueled by a desire to solve complex problems and enhance user experiences.`}
       </p>
       <h2 className="text-xl font-semibold mt-6">What I Do:</h2>
       <h3 className="text-lg font-semibold mt-4">Technical Leadership</h3>
