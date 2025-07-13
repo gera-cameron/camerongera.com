@@ -20,6 +20,19 @@ export default function Page() {
       </p>
       
       <h2 className="text-xl font-semibold mt-6">Experience</h2>
+
+      <h3 className="text-lg font-semibold mt-4">Flipstone Technology Partners, Remote</h3>
+      <div className="flex justify-between font-semibold">
+        <p className="mb-2">Software Engineer</p>
+        <p className="mb-2 text-right">August 2024 - Present</p>
+      </div>
+      <ul className="list-disc list-inside mb-4">
+        <li>Boosted team velocity by 20% by proactively delivering high-quality code and well-defined user stories, enabling the team to execute more efficiently.</li>
+        <li>Led the successful launch of a global business platform, empowering customers to input and manage rate data with improved accuracy and ease.</li>
+        <li>Built strong relationships with customers and stakeholders through regular updates on feature progress and timely support, driving transparency and trust.</li>
+        <li>Introduced growth-focused processes within a flat org structure, creating opportunities for engineers to upskill and advance in their roles.</li>
+        <li>Advocated for and prioritized critical feature sets aligned with business goals, ensuring delivery of high-impact solutions.</li>
+      </ul>
       
       <h3 className="text-lg font-semibold mt-4">Mosaic Building Group, Remote</h3>
       <div className="flex justify-between font-semibold">
